@@ -35,11 +35,11 @@ h3 {font-size: 20px;
 .test15:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test16:before {background-image: url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
+.test16:before {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
                zoom:40%;}
-.test17:before {background-image: url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
+.test17:before {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
                zoom:40%;}
-.test18:before {background-image: url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
+.test18:before {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
                zoom:40%;}
 
 .test19:after {}
