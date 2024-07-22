@@ -50,7 +50,7 @@ h3 {font-size: 20px;
 
 .test11:after {background-image:url('/traffic-light-without-label.svg');
                background-size:40%;}
-.test12:after {background-iamge:url('traffic-light-with-label.svg');
+.test12:after {background-iamge:url("data:image/svg+xml,***<here place encoded svg>***")'traffic-light-with-label.svg');
                background-size:40%;}
 .test13:after {background-image:url('traffic-light-with-label-and-desc.svg');
                background-size:40%;}
