@@ -22,8 +22,8 @@ h3 {font-size: 20px;
 .test6:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test7:after {}
-.test8:after {}
+.test7:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg')}
+.test8:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg')}
 .test9:after {}
 
 .test10:before {}
