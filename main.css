@@ -22,16 +22,16 @@ h3 {font-size: 20px;
 .test6:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test7:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
-             background-size:20% 20%;}
-.test8:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
-             background-size:20% 20%;
+.test7:after {content:url('hens in ties.jpg');
+             background-size:20%;}
+.test8:after {content:url('hens in ties.jpg');
+             background-size:20%;
              content:"a white chicken with a black tail sits in a box that says Clucky.";}
 
-.test9:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
-              background-size:20% 20%;}
-.test10:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
-               background-size:20% 20%;
+.test9:before {content:url('hens in ties.jpg');
+              background-size:20%;}
+.test10:before {content:url('hens in ties.jpg');
+               background-size:20%;
                content: "a white chicken with a black tail sits in a box that says Clucky.";}
 
 .test11:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
