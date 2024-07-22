@@ -48,7 +48,7 @@ h3 {font-size: 20px;
                  zoom:20%;}
 
 
-.test11:after {background-image:url('traffic-light-without-label.svg');
+.test11:after {background-image:url('/traffic-light-without-label.svg');
                background-size:40%;}
 .test12:after {background-iamge:url('traffic-light-with-label.svg');
                background-size:40%;}
