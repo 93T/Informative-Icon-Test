@@ -57,9 +57,9 @@ h3 {font-size: 20px;
 
 .test14:before {background-image:url('..\traffic-light-without-label.svg');
                background-size:40%;}
-.test15:before {background-image:url('traffic-light-with-label.svg');
+.test15:before {background-image:url('\traffic-light-with-label.svg');
                background-size:40%;}
-.test16:before {background-image:url('traffic-light-with-label-and-desc.svg');
+.test16:before {background-image:url('/traffic-light-with-label-and-desc.svg');
                background-size:40%;}
 
 .test17:after {background-image:url('hens in ties.jpg');
