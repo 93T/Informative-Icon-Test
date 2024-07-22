@@ -22,11 +22,11 @@ h3 {font-size: 20px;
 .test6:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test7:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg')}
-.test8:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg')}
+.test7:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');}
+.test8:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');}
 
-.test9:before {}
-.test10:before {}
+.test9:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');}
+.test10:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');}
 
 .test11:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
              zoom:40%;}
