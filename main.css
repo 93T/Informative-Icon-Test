@@ -23,14 +23,14 @@ h3 {font-size: 20px;
              zoom:40%;}
 
 .test7:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
-             background-size:20%;}
+             background-size:20% 20%;}
 .test8:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
-             background-size:20%;}
+             background-size:20% 20%;}
 
 .test9:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
-              background-size:20%;}
+              background-size:20% 20%;}
 .test10:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
-               background-size:20%;}
+               background-size:20% 20%;}
 
 .test11:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
              zoom:40%;}
