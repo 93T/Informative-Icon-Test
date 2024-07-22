@@ -1,5 +1,7 @@
 html {padding: 20px;}
-h1 {font-size: 50px;}
+h1 {font-size: 100px;}
+h2 {font-size: 50px;}
+h3 {font-size: 30px;}
 
 .test1:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
              zoom:40%;}
