@@ -15,18 +15,18 @@ h3 {font-size: 20px;
 .test3:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test1a:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg') + " The order of a stop like color from top to bottom is red, yellow, gred";
+.test1a:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
              zoom:40%;}
-.test2a:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg') + " Stop lights are annoying";
+.test2a:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg') " Stop lights are annoying";
              zoom:40%;}
-.test3a:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg') + " Warning: you are about to take the driving test.";
+.test3a:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
              zoom:40%;}
 
-.test4:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg') + " The order of a stop like color from top to bottom is red, yellow, gred";
+.test4:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
              zoom:40%;}
-.test5:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg') + " Stop lights are annoying";
+.test5:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg') " Stop lights are annoying";
              zoom:40%;}
-.test6:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg') + " Warning: you are about to take the driving test.";
+.test6:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
              zoom:40%;}
 
 .test7:after {content:url('hens in ties.jpg');
