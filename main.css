@@ -6,7 +6,7 @@ h2 {font-size: 50px;
 h3 {font-size: 20px;
     padding: 10px,0px,0px,0px;}
 
-.ImgOnPage {width: 50%;}
+.ImgOnPage {width: 20%;}
 
 .test1:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
              zoom:40%;}
@@ -22,11 +22,15 @@ h3 {font-size: 20px;
 .test6:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test7:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');}
-.test8:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');}
+.test7:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
+             width:20%;}
+.test8:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
+             width:20%;}
 
-.test9:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');}
-.test10:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');}
+.test9:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
+              width:20%;}
+.test10:before {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg');
+               width:20%;}
 
 .test11:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
              zoom:40%;}
