@@ -34,10 +34,10 @@ h3 {font-size: 20px;
 .test9:before {content:url('hens in ties.jpg');
                zoom:20%;}
 .test10a:before {content:url('hens in ties.jpg') "a white chicken with a black tail sits in a box that says Clucky.";
-                zoom:20%;}
+                 zoom:20%;}
 .test10b:before {content:url('hens in ties.jpg') "a white chicken with a black tail sits in a box that says Clucky.";
-                zoom:20%;}
-.test10b:before {content:"a white chicken with a black tail sits in a box that says Clucky.";}
+                 zoom:20%;
+                 content:"a white chicken with a black tail sits in a box that says Clucky.";}
 
 
 .test11:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
