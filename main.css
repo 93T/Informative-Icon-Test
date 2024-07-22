@@ -24,28 +24,26 @@ h3 {font-size: 20px;
 
 .test7:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg')}
 .test8:after {content:url('https://93t.github.io/Informative-Icon-Test/hens in ties.jpg')}
-.test9:after {}
 
+.test9:before {}
 .test10:before {}
-.test11:before {}
-.test12:before {}
 
-.test13:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
+.test11:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
              zoom:40%;}
-.test14:after {background-iamge:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
+.test12:after {background-iamge:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
              zoom:40%;}
-.test15:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
+.test13:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test16:before {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
+.test14:before {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
                zoom:40%;}
-.test17:before {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
+.test15:before {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
                zoom:40%;}
-.test18:before {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
+.test16:before {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
                zoom:40%;}
 
-.test19:after {}
-.test20:after {}
+.test17:after {}
+.test18:after {}
 
-.test21:before {}
-.test22:before {}
+.test19:before {}
+.test20:before {}
