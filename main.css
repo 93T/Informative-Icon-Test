@@ -57,13 +57,13 @@ h3 {font-size: 20px;
 .test17:after {background-image:url('hens in ties.jpg');
                background-size:20%;}
 .test18:after {background-image:url('hens in ties.jpg');
-               background-size:20% 100%;
+               background-size:40%;
                background-repeat: no-repeat;
                content: "A white chicken with a black tail sits in a box that says Clucky.";}
 
 .test19:before {background-image:url('hens in ties.jpg');
                 background-size:20%;}
 .test20:before {background-image:url('hens in ties.jpg');
-                background-size:20%;
+                background-size:40%;
                 background-repeat: no-repeat;
                 content: "A white chicken with a black tail sits in a box that says Clucky.";}
