@@ -30,7 +30,7 @@ h3 {font-size: 20px;
 
 .test9:before {content:url('hens in ties.jpg');
                background-size:20%;}
-.test10:before {content:url('hens in ties.jpg') "a white chicken with a black tail sits in a box that says Clucky.";
+.test10:before {content:url('hens in ties.jpg') + "a white chicken with a black tail sits in a box that says Clucky.";
                 background-size:20%;}
 
 .test11:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
