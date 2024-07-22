@@ -6,7 +6,7 @@ h2 {font-size: 50px;
 h3 {font-size: 20px;
     padding: 10px,0px,0px,0px;}
 
-.ImgOnPage {width: 50%'}
+.ImgOnPage {width: 50%;}
 
 .test1:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
              zoom:40%;}
