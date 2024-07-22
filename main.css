@@ -10,12 +10,12 @@ h3 {font-size: 30px;
              zoom:40%;}
 .test2:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
              zoom:40%;}
-.test3:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label-and-desc.svg');
+.test3:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
 .test4:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
              zoom:40%;}
 .test5:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
              zoom:40%;}
-.test6:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label-and-desc.svg');
+.test6:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
