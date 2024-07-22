@@ -50,10 +50,12 @@ h3 {font-size: 20px;
                background-size:20%;}
 .test18:after {background-image:url('hens in ties.jpg');
                background-size:20%;
+               background-repeat: no-repeat;
                content: "A white chicken with a black tail sits in a box that says Clucky.";}
 
 .test19:before {background-image:url('hens in ties.jpg');
                 background-size:20%;}
 .test20:before {background-image:url('hens in ties.jpg');
                 background-size:20%;
+                background-repeat: no-repeat;
                 content: "A white chicken with a black tail sits in a box that says Clucky.";}
