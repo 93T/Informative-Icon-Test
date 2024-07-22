@@ -28,13 +28,19 @@ h3 {font-size: 20px;
 .test11:before {}
 .test12:before {}
 
-.test13:after {}
-.test14:after {}
-.test15:after {}
+.test13:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
+             zoom:40%;}
+.test14:after {background-iamge:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
+             zoom:40%;}
+.test15:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
+             zoom:40%;}
 
-.test16:before {}
-.test17:before {}
-.test18:before {}
+.test16:before {background-image: url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
+               zoom:40%;}
+.test17:before {background-image: url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
+               zoom:40%;}
+.test18:before {background-image: url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
+               zoom:40%;}
 
 .test19:after {}
 .test20:after {}
