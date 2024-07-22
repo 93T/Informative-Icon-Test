@@ -1,7 +1,5 @@
 html {padding: 20px;}
 
 .test1:after {content:" <rvt-icon name='alarm-solid'></rvt-icon>";}
-.test2:after{content:url('https://www.tutorialspoint.com/html5/src/svg/extensions/imagelib/smiley.svg');
-zoom:20%;}
-.test3:after{content:url('https://traffic-light.svg');
-zoom:20%;}
+.test2:after{content:url('https://www.tutorialspoint.com/html5/src/svg/extensions/imagelib/smiley.svg');}
+.test3:after{content:url('https://traffic-light.svg');}
