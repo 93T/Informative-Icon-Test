@@ -26,7 +26,7 @@ h3 {font-size: 20px;
              background-size:20%;}
 .test8:after {content:url('hens in ties.jpg');
              background-size:20%;
-             content:"a white chicken with a black tail sits in a box that says Clucky.";}
+             content:"A white chicken with a black tail sits in a box that says Clucky.";}
 
 .test9:before {content:url('hens in ties.jpg');
               background-size:20%;}
