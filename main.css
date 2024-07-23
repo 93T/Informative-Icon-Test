@@ -50,7 +50,7 @@ h3 {font-size: 20px;
 
 .test11:after {background-image:url('traffic-light-without-label.svg');
                background-size:40%;}
-.test12:after {background-image:url('traffic-light-with-label.svg');
+.test12:after {background-image:url(https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg);
                background-size:40%;}
 .test13:after {background-image: url('data:image/svg+xml,<svg width="120" height="300" xmlns="http://www.w3.org/2000/svg"><title>A traffic light</title><desc>This is a gray traffic light with a red light at the top, a yellow light in the middle, and a red green light at the bottom.</desc><rect width="100" height="280" x="10" y="10" rx="20" ry="20" fill="gray" stroke="black" stroke-width="2" /><circle r="40" cx="60" cy="60" fill="red" stroke="black" stroke-width="2" /><circle r="40" cx="60" cy="150" fill="yellow" stroke="black" stroke-width="2" /><circle r="40" cx="60" cy="240" fill="green" stroke="black" stroke-width="2" /></svg>');
                background-size:40%;}
