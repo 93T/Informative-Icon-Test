@@ -8,11 +8,11 @@ h3 {font-size: 20px;
 
 .ImgOnPage {width: 20%;}
 
-.test1:after {content:url('https://93t.github.io/Informative-Icon-Test/img/traffic-light-without-label.svg');
+.test1:after {content:url('img/traffic-light-without-label.svg');
              zoom:40%;}
-.test2:after {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label.svg');
+.test2:after {content:url('img/traffic-light-with-label.svg');
              zoom:40%;}
-.test3:after {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label-and-desc.svg');
+.test3:after {content:url('img/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
 .test1a:after {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
