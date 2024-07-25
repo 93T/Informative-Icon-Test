@@ -66,6 +66,8 @@ h3 {font-size: 20px;
 
 .test17:after {background-image:url('img/hens in ties.jpg');
                background-size:40%;
+               width: 100%;
+               width:100%;
                background-repeat: no-repeat;
                content: "";}
 .test18:after {background-image:url('img/hens in ties.jpg');
