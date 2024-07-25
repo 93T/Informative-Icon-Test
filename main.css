@@ -8,32 +8,32 @@ h3 {font-size: 20px;
 
 .ImgOnPage {width: 20%;}
 
-.test1:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
+.test1:after {content:url('https://93t.github.io/Informative-Icon-Test/img/traffic-light-without-label.svg');
              zoom:40%;}
-.test2:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
+.test2:after {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label.svg');
              zoom:40%;}
-.test3:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
-             zoom:40%;}
-
-.test1a:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
-             zoom:40%;}
-.test2a:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg') " Stop lights are annoying";
-             zoom:40%;}
-.test3a:after {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
+.test3:after {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test4:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg');
+.test1a:after {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
              zoom:40%;}
-.test5:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
+.test2a:after {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label.svg') " Stop lights are annoying";
              zoom:40%;}
-.test6:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg');
+.test3a:after {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
              zoom:40%;}
 
-.test4a:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
+.test4:before {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-without-label.svg');
              zoom:40%;}
-.test5a:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg') " Stop lights are annoying";
+.test5:before {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label.svg');
              zoom:40%;}
-.test6a:before {content:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
+.test6:before {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label-and-desc.svg');
+             zoom:40%;}
+
+.test4a:before {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
+             zoom:40%;}
+.test5a:before {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label.svg') " Stop lights are annoying";
+             zoom:40%;}
+.test6a:before {content:url('https://93t.github.io/Informative-Icon-Test/imgtraffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
              zoom:40%;}
 
 .test7:after {content:url('hens in ties.jpg');
@@ -48,16 +48,16 @@ h3 {font-size: 20px;
                  zoom:20%;}
 
 
-.test11:after {background-image:url('traffic-light-without-label.svg');
+.test11:after {background-image:url('img/traffic-light-without-label.svg');
                background-size:40%;}
-.test12:after {background-image:url('https://93t.github.io/Informative-Icon-Test/traffic-light-with-label.svg');
+.test12:after {background-image:url('https://93t.github.io/Informative-Icon-Test/img/traffic-light-with-label.svg');
                background-size:40%;}
 .test13:after {background-image: url('data:image/svg+xml,<svg width="120" height="300" xmlns="http://www.w3.org/2000/svg"><title>A traffic light</title><desc>This is a gray traffic light with a red light at the top, a yellow light in the middle, and a red green light at the bottom.</desc><rect width="100" height="280" x="10" y="10" rx="20" ry="20" fill="gray" stroke="black" stroke-width="2" /><circle r="40" cx="60" cy="60" fill="red" stroke="black" stroke-width="2" /><circle r="40" cx="60" cy="150" fill="yellow" stroke="black" stroke-width="2" /><circle r="40" cx="60" cy="240" fill="green" stroke="black" stroke-width="2" /></svg>');
                background-size:40%;}
 
-.test14:before {background-image:url('traffic-light-without-label.svg');
+.test14:before {background-image:url('img/traffic-light-without-label.svg');
                background-size:40%;}
-.test15:before {background-image:url('traffic-light-with-label.svg');
+.test15:before {background-image:url('img/traffic-light-with-label.svg');
                background-size:40%;}
 .test16:before {background-image: url('data:image/svg+xml,<svg width="120" height="300" xmlns="http://www.w3.org/2000/svg"><title>A traffic light</title><desc>This is a gray traffic light with a red light at the top, a yellow light in the middle, and a red green light at the bottom.</desc><rect width="100" height="280" x="10" y="10" rx="20" ry="20" fill="gray" stroke="black" stroke-width="2" /><circle r="40" cx="60" cy="60" fill="red" stroke="black" stroke-width="2" /><circle r="40" cx="60" cy="150" fill="yellow" stroke="black" stroke-width="2" /><circle r="40" cx="60" cy="240" fill="green" stroke="black" stroke-width="2" /></svg>');
                background-size:40%;}
