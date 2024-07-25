@@ -56,7 +56,8 @@ h3 {font-size: 20px;
                background-size:40%;}
 
 .test14:before {background-image:url('img/traffic-light-without-label.svg');
-               background-size:40%;}
+                background-color: gray;
+                background-size:40%;}
 .test15:before {background-image:url('img/traffic-light-with-label.svg');
                 background-color: gray;
                 background-size:40%;}
