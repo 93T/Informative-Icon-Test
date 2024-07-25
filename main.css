@@ -15,11 +15,11 @@ h3 {font-size: 20px;
 .test3:after {content:url('img/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test1a:after {content:url('img/traffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
+.test1a:after {content:url('img/traffic-light-without-label.svg') / " The order of a stop like color from top to bottom is red, yellow, gred";
              zoom:40%;}
-.test2a:after {content:url('img/traffic-light-with-label.svg') " Stop lights are annoying";
+.test2a:after {content:url('img/traffic-light-with-label.svg') / " Stop lights are annoying";
              zoom:40%;}
-.test3a:after {content:url('img/traffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
+.test3a:after {content:url('img/traffic-light-with-label-and-desc.svg') / " Warning: you are about to take the driving test.";
              zoom:40%;}
 
 .test4:before {content:url('img/traffic-light-without-label.svg');
@@ -29,22 +29,22 @@ h3 {font-size: 20px;
 .test6:before {content:url('img/traffic-light-with-label-and-desc.svg');
              zoom:40%;}
 
-.test4a:before {content:url('img/traffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
+.test4a:before {content:url('img/traffic-light-without-label.svg') / " The order of a stop like color from top to bottom is red, yellow, gred";
              zoom:40%;}
-.test5a:before {content:url('img/traffic-light-with-label.svg') " Stop lights are annoying";
+.test5a:before {content:url('img/traffic-light-with-label.svg') / " Stop lights are annoying";
              zoom:40%;}
-.test6a:before {content:url('img/traffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
+.test6a:before {content:url('img/traffic-light-with-label-and-desc.svg') / " Warning: you are about to take the driving test.";
              zoom:40%;}
 
 .test7:after {content:url('img/hens in ties.jpg');
               zoom:20%;}
-.test8a:after {content:url('img/hens in ties.jpg') "A white chicken with a black tail sits in a box that says Clucky.";
+.test8a:after {content:url('img/hens in ties.jpg') / "A white chicken with a black tail sits in a box that says Clucky.";
               zoom:20%;}
 
 
 .test9:before {content:url('img/hens in ties.jpg');
                zoom:20%;}
-.test10a:before {content:url('img/hens in ties.jpg') "a white chicken with a black tail sits in a box that says Clucky.";
+.test10a:before {content:url('img/hens in ties.jpg') / "a white chicken with a black tail sits in a box that says Clucky.";
                  zoom:20%;}
 
 
