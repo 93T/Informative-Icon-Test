@@ -22,6 +22,13 @@ h3 {font-size: 20px;
 .test3a:after {content:url('img/traffic-light-with-label-and-desc.svg') / " Warning: you are about to take the driving test.";
              zoom:40%;}
 
+.test1b:after {content:url('img/traffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
+             zoom:40%;}
+.test2b:after {content:url('img/traffic-light-with-label.svg') " Stop lights are annoying";
+             zoom:40%;}
+.test3b:after {content:url('img/traffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
+             zoom:40%;}
+
 .test4:before {content:url('img/traffic-light-without-label.svg');
              zoom:40%;}
 .test5:before {content:url('img/traffic-light-with-label.svg');
@@ -34,6 +41,13 @@ h3 {font-size: 20px;
 .test5a:before {content:url('img/traffic-light-with-label.svg') / " Stop lights are annoying";
              zoom:40%;}
 .test6a:before {content:url('img/traffic-light-with-label-and-desc.svg') / " Warning: you are about to take the driving test.";
+             zoom:40%;}
+
+.test4b:before {content:url('img/traffic-light-without-label.svg') " The order of a stop like color from top to bottom is red, yellow, gred";
+             zoom:40%;}
+.test5b:before {content:url('img/traffic-light-with-label.svg') " Stop lights are annoying";
+             zoom:40%;}
+.test6b:before {content:url('img/traffic-light-with-label-and-desc.svg') " Warning: you are about to take the driving test.";
              zoom:40%;}
 
 .test7:after {content:url('img/hens in ties.jpg');
